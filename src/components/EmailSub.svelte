@@ -1,6 +1,6 @@
 <div>
   <!-- BG Container -->
-  <div class="gcontainers border border-slate-800">
+  <div class="h-screen flex justify-center items-center  border border-slate-800">
     <!-- Card -->
     <div class="p-2 mx-6 bg-slate-700 rounded-2xl shadow-xl shadow-black/50">
       <!-- flex container -->
@@ -44,7 +44,7 @@
 
 <div>
   <!-- Background container -->
-  <div class="gcontainers border border-slate-800">
+  <div class="h-screen flex justify-center items-center  border border-slate-800">
     <!-- card -->
     <div class=" p-4 bg-slate-800 rounded-lg ">
       <!-- contents container -->
