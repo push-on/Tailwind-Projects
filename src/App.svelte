@@ -6,6 +6,6 @@
 
 <main>
   <Test />
-  <EmailSub />
-  <PriceingCards/>
+  <!-- <EmailSub /> -->
+  <!-- <PriceingCards/> -->
 </main>
