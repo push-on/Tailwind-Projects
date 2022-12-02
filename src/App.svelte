@@ -1,11 +1,17 @@
 <script>
-  import Test from './components/Test.svelte';
-  import EmailSub from './components/EmailSub.svelte';
-  import PriceingCards from './components/PriceingCards.svelte';
+  import EmailSub from './components/EmailSub.svelte'
+  import ImageGallery from './components/ImageGallery.svelte'
+  import LoginModal from './components/LoginModal.svelte'
+  import PriceingCards from './components/PriceingCards.svelte'
+  import ProductModal from './components/ProductModal.svelte'
+  import Test from './components/Test.svelte'
 </script>
 
 <main>
-  <Test />
   <!-- <EmailSub /> -->
+  <!-- <ImageGallery /> -->
+  <!-- <LoginModal /> -->
   <!-- <PriceingCards/> -->
+  <ProductModal />
+  <!-- <Test /> -->
 </main>
