@@ -12,6 +12,6 @@
   <!-- <ImageGallery /> -->
   <!-- <LoginModal /> -->
   <!-- <PriceingCards/> -->
-  <ProductModal />
-  <!-- <Test /> -->
+  <!-- <ProductModal /> -->
+  <Test />
 </main>
