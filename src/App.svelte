@@ -9,7 +9,7 @@
 
 <main>
   <!-- <EmailSub /> -->
-  <ImageGallery />
+  <!-- <ImageGallery /> -->
   <!-- <LoginModal /> -->
   <!-- <PriceingCards/> -->
   <!-- <ProductModal /> -->
