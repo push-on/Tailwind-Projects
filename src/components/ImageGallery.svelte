@@ -2,7 +2,7 @@
 <div class=" flex justify-center items-center min-h-screen">
   <!-- Card Container -->
   <div
-    class="p-6 m-3 space-y-10 md:p-40 bg-slate-700 rounded-3xl shadow-lg shadow-black ">
+    class="p-6 m-3 space-y-10 md:p-40 bg-slate-800 rounded-3xl shadow-lg shadow-black ">
     <!-- menu Bar -->
     <div
       class="md:mb-24 flex flex-col md:flex-row justify-center items-center space-y-3 md:space-y-0 md:space-x-8 md:justify-end text-2xl">
@@ -45,16 +45,18 @@
       </div>
       <!-- button upload-->
       <button
-        class="bg-slate-900 py-3 px-14 text-lg rounded-lg duration-200 hover:bg-slate-800 "
+        class="bg-slate-600 hover:bg-slate-700 py-3 px-14 text-lg rounded-lg duration-200  "
         >Upload</button>
     </div>
     <!-- Gallary container -->
-    <div class="grid gap-4 md:grid-cols-3">
+    <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
       <div class="relative group">
+        <!-- Image -->
         <img
           src="src/assets/imgs/1.jpg"
           alt=""
           class="duration-200 w-72 rounded-lg" />
+        <!-- Title, Status & button -->
         <div
           class="backdrop-blur-sm absolute bottom-0 left-0 right-0 p-2 px-4 text-white duration-500 bg-black opacity-0 group-hover:opacity-100 bg-opacity-40 rounded-b-lg">
           <div class="flex justify-between w-full">
