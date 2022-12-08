@@ -9,8 +9,8 @@
 
 <main>
   <!-- <EmailSub /> -->
-  <ImageGallery />
-  <!-- <LoginModal /> -->
+  <!-- <ImageGallery /> -->
+  <LoginModal />
   <!-- <PriceingCards/> -->
   <!-- <ProductModal /> -->
   <!-- <Test /> -->
