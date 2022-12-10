@@ -8,9 +8,9 @@
 </script>
 
 <main>
-  <!-- <EmailSub /> -->
+  <EmailSub />
   <!-- <ImageGallery /> -->
-  <LoginModal />
+  <!-- <LoginModal /> -->
   <!-- <PriceingCards/> -->
   <!-- <ProductModal /> -->
   <!-- <Test /> -->
