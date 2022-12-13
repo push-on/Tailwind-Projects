@@ -10,7 +10,7 @@
 <main>
   <!-- <EmailSub /> -->
   <!-- <ImageGallery /> -->
-  <LoginModal />
+  <!-- <LoginModal /> -->
   <!-- <PriceingCards/> -->
   <!-- <ProductModal /> -->
   <!-- <Test /> -->
